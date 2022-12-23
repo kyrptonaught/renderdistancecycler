@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "renderdistancecycler",
+  "version": "1.0.0-1.19",
+  "name": "Render Distance Cycler",
+  "description": "F3 + F to cycle Render Distance",
+  "authors": [
+    "kyrptonaught"
+  ],
+  "contact": {
+    "homepage": "https://github.com/kyrptonaught/renderdistancecycler",
+    "sources": "https://github.com/kyrptonaught/renderdistancecycler"
+  },
+  "license": "MIT",
+  "icon": "assets/renderdistancecycler/icon.png",
+  "environment": "client",
+  "mixins": [
+    {
+      "config": "renderdistancecycler.mixins.json",
+      "environment": "client"
+    }
+  ]
+}
