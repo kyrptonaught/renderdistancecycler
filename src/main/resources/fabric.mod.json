@@ -19,5 +19,8 @@
       "config": "renderdistancecycler.mixins.json",
       "environment": "client"
     }
-  ]
+  ],
+  "depends": {
+    "fabric": "*"
+  }
 }

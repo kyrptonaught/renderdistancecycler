@@ -192,3 +192,5 @@ Temporary Items
 .idea/runConfigurations.xml
 .idea/runConfigurations/Minecraft_Client.xml
 .idea/runConfigurations/Minecraft_Server.xml
+/.idea/.gitignore
+/.idea/compiler.xml
