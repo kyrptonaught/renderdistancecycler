@@ -1,0 +1,6 @@
+{
+  "modmenu.summaryTranslation.renderdistancecycler": "Күрсәтеләчәк араны үзгәртү өчен F3 + F төймәләренә басыгыз.",
+  "modmenu.descriptionTranslation.renderdistancecycler": "Күрсәтеләчәк араны үзгәртү өчен, 22w12a версиясендә бетерелгән F3 + F кире өсти.",
+  "debug.cycle_renderdistance.help": "F3 + F = Күрсәтеләчәк араны зурайтырга (киметү өчен Shift төймәсенә басыгыз)",
+  "debug.cycle_renderdistance.message": "Күрсәтеләчәк ара: %s"
+}
